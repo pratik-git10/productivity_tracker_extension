@@ -13,7 +13,13 @@ const Popup = () => {
   }, []);
 
   return (
-    <div style={{ width: "300px", padding: "10px", fontFamily: "Arial" }}>
+    <div
+      style={{
+        width: "300px",
+        border: "20px",
+        padding: "10px",
+        fontFamily: "Arial",
+      }}>
       <h2>Productivity Tracker</h2>
       <ul>
         {Object.entries(timeData).map(([site, time]) => (
