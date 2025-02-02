@@ -1,10 +1,11 @@
-### This is a Browser Extension called Productivity Tracker
+## Productivity Tracker - Browser Extension.
 
-## What this Extension really does
+### What this Extension really does
 
 - It's track time spent on each website.
+- You can clear spent time whenever you want.
 
-## Tech stack
+### Tech stack
 
 - Html
 - Tailwind
